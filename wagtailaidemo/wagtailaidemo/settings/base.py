@@ -172,7 +172,7 @@ WAGTAIL_AI = {
             "CLASS": "wagtail_ai.ai.llm.LLMBackend",
             "CONFIG": {
                 # Model ID recognizable by the "LLM" library.
-                "MODEL_ID": "llava:latest",
+                "MODEL_ID": "llama2-uncensored",
                 "TOKEN_LIMIT": 4000,
             },
         }
